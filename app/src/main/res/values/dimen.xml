@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">16dp</dimen>
+    <dimen name="small">14sp</dimen>
+    <dimen name="big">56sp</dimen>
+    <dimen name="bottom">8dp</dimen>
+    <dimen name="left">24dp</dimen>
+    <dimen name="right">24dp</dimen>
+    <dimen name="margin">8dp</dimen>
+    <dimen name="margin_bottom">32dp</dimen>
+    <dimen name="line1">2dp</dimen>
+    <dimen name="line2">330dp</dimen>
+    <dimen name="padding_bottom">24dp</dimen>
+</resources>
